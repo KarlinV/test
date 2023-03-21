@@ -8,4 +8,4 @@ setInterval(() => {
   } else {
     time.textContent = --countTime;
   }
-}, 1000);
+}, 300);
